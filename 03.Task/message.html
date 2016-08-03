@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Leave me a message</title>
+		<link href="style/styleHeader.css" rel="stylesheet" type="text/css"/>
+		<link href="style/style5.css" rel="stylesheet" type="text/css"/>
+	</head>
+	<body>
+		<header>
+			<div>
+				<img alt="Message" src="images/the-message.png" />
+			</div>
+			<h1>Mr.Vyagov Social Site</h1>
+			<nav>
+				<ul>
+					<li>
+	                    <a href="homePage.html">Home Page</a>
+	                </li>
+	                <li>
+	                    <a href="aboutMe.html">About me</a>
+	                </li>
+	                <li>
+	                    <a href="gallery.html">Gallery</a>
+	                </li>
+	                <li>
+	                    <a href="mySkills.html">My programing skills</a>
+	                </li>
+	                <li>
+	                    <a href="message.html">Leave me a message</a>
+	                </li>
+				</ul>
+			</nav>
+		</header>
+		<section>
+			<hr>
+			<h2>Please fill in the form below if you want to leave me a message</h2>
+			<hr>
+		</section>
+		<section>
+			<form action="" method="post">
+				<div>
+					<label for="fn">First name:</label>
+					<input type="text" id="fn" name="firstName" autofocus="autofocus" required="required" />
+				</div>
+				<div>
+					<label for="ln">Last name:</label>
+					<input type="text" id="ln" name="lastName" required="required" />
+				</div>
+				<div>
+					<label for="eml">E-mail:</label>
+					<input type="email" id="eml" name="email" pattern="{3,}@{3,}.{2,}" required="required" />
+				</div>
+				<div>
+					<label for="op">Your opinion about the site:</label>
+					<select id="op" name="opinion" required="required">
+							<option value="">--select--</option>
+							<option value="like">I like it</option>
+							<option value="notLike">I don't like</option>
+							<option value="doNotKnow">I don't know</option>
+					</select>
+				</div>
+				<div>
+					<label for="mess">Message:</label>
+					<div>
+						<textarea id="mess" name="notes" rows="4" cols="55" placeholder="Leave me a message..." required="required"></textarea>
+					</div>
+				</div>
+				
+				<button type="submit">Send me</button>
+			</form>
+		</section>
+	</body>
+</html>

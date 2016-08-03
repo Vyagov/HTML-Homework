@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #eeeede;
+}
+
+h3:after {
+	content: url(../images/cv-pic.png);
+	margin: 10px;
+	vertical-align: -37px;
+}
+
+iframe {
+	background-color: #eeeed5;
+	width: 860px; 
+	height: 400px;
+}

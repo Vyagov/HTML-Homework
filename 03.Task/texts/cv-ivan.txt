@@ -1,0 +1,63 @@
+ 	  
+			Personal Details
+	 
+ First name(s) / Surname(s) | Ivan Nikolov Vyagov
+		    Address | Levski G housing estate 30, entr. D, fl.7, ap.141 Sofia 1836, Bulgaria
+                      Phone | +359898641601
+                     E-mail | ivanviagov@abv.bg
+                Nationality | Bulgaria
+                  I live in | Sofia/Bulgaria
+                 Birth date | 21.01.1985
+                     Gender | Male
+
+			Work Experience	
+ 
+		      Dates | December 2007 - November 2015
+Occupation or position held | Customer Services - Casher
+           Name of employer | RaiffeisenBank Bulgaria LTD
+                   Location | Sofia
+ Type of business or sector | Banks and credit
+
+                    Education and training
+	 
+                      Dates | September 1999 - June 2004
+           Name and type of |
+    organisation  providing | Technical School of transport and energy "Henry Ford"
+     education and training |
+                   Location | Sofia
+                      Level | Professional
+         Additional Courses | - Specialized course on the cashier at the Bulgarian National Bank
+                            | - Course "Standard for recognition" and "standard life" of Bulgarian
+                            | banknotes and coins to the Bulgarian National Bank
+                            | - Course ATM operator to Borica
+                            | - Seminars for training Improve skills to employees from the front office
+                            | and cashiers for customer service organized by "Docheva and partners" Ltd.
+
+              Personal skills and competences
+	 
+             Mother tongue: | Bulgarian
+                  Languages |         | Comprehension | Speaking     | Writing
+			    |------------------------------------------------------
+                            | English | Intermediate  | Intermediate | Intermediate
+			    |------------------------------------------------------
+        Computer skills and | Word
+	        competences | Excel
+		            | Lotos Notes
+			    | Midas
+			    | Arhimed
+			    | OmniDocs
+			    | Cloracon 
+			    | Sevar
+			    | Internet
+			    | Eclipse
+			    | Visual Studio
+			    | Basic C#
+			    | Basic PHP
+			    | HTML
+			    | CSS
+			    |
+           Other skills and | determined
+ 		competences | ambitious
+			    | responsible
+			    | creative
+		    	    | organized

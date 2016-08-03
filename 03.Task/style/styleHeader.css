@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+header, header>div {
+	height: 155px;
+}
+
+header>div {
+	margin-right: 40px;
+	float: left;
+	width: 305px;
+}
+
+h1 {
+	display: inline;
+}

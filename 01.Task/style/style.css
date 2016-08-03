@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+.inline {
+	display: inline-block;
+}
+
+#resize {
+	resize: none;
+}
+
+form>div>div:first-child {
+	width: 115px;
+}
+
+label {
+	display: block;
+}
+
+label, div.inline>div {
+	height: 26px;
+}
